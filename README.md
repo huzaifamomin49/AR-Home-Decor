@@ -1,8 +1,10 @@
 # HomeDecor Using Augmented Reality
 ![1](https://user-images.githubusercontent.com/47695127/129226107-c90b21bf-f289-4c6d-89c1-1c2498b3bee5.jpeg)
+
 ![2](https://user-images.githubusercontent.com/47695127/129226196-38ee63f1-b49f-41a8-9db4-d9147f103038.jpeg)
 
 Demo :
+
 ![3](https://user-images.githubusercontent.com/47695127/129226223-e2121d73-e7d0-4061-86f7-03d95bc5ec19.gif)
 
 1 INSTALLATION GUIDE :
