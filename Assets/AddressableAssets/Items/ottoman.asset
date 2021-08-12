@@ -1,0 +1,17 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ea77e98e9596349efa27b1daeba2bed5, type: 3}
+  m_Name: ottoman
+  m_EditorClassIdentifier: 
+  price: 0
+  itemPrefab: {fileID: 134178666470767145, guid: cd9d5c8fcf0084b87a73d64936e01d56, type: 3}
+  itemImage: {fileID: 21300000, guid: a372f26a3483a45049ef0b0e420fe5b7, type: 3}

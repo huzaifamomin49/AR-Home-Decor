@@ -1,0 +1,103 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: Models
+  m_EditorClassIdentifier: 
+  m_GroupName: Models
+  m_Data:
+    m_SerializedData: []
+  m_GUID: ea2ca1ccd86494209969868dad66d3bd
+  m_SerializeEntries:
+  - m_GUID: 4dea7ae54376d47c7b7ecd676626205f
+    m_Address: Assets/AddressableAssets/Items/cameretta.asset
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: 68142a76c52e143409dfd6a70595365c
+    m_Address: Assets/AddressableAssets/Items/ottoman.asset
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: 086a84d821eb24e65ac5372fa75bbc01
+    m_Address: Assets/AddressableAssets/Items/chair7.asset
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: f16188d8e10a64dfca4f85715b905be8
+    m_Address: Assets/AddressableAssets/Items/chair5.asset
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: f838a57a461e84db78d1c09b81cee8f9
+    m_Address: Assets/AddressableAssets/Items/chair4.asset
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: e53e8d382507b48139f1c2b536877871
+    m_Address: Assets/AddressableAssets/Items/chair2.asset
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: b877e12d5ae7844ce88b50e84a37799c
+    m_Address: Assets/AddressableAssets/Items/barchair.asset
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: 26dcf83d7ff5a4723a62c9f6e8509e81
+    m_Address: Assets/AddressableAssets/Items/chair6.asset
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: 8409cc54596ce49a7a04905e12db0300
+    m_Address: Assets/AddressableAssets/Items/Teapoy2.asset
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: 16eb70fd515a54f4cb4a203858b658db
+    m_Address: Assets/AddressableAssets/Items/Teapoy.asset
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: 9fdb138850b9a4af38d3db638eb96c01
+    m_Address: Assets/AddressableAssets/Items/Lamp.asset
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: f19530cf0c07641b69dda024494a9212
+    m_Address: Assets/AddressableAssets/Items/sofa4.asset
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: 71fa584ec4d9b439f989d4e483975bf9
+    m_Address: Assets/AddressableAssets/Items/Sofa.asset
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  m_ReadOnly: 0
+  m_Settings: {fileID: 11400000, guid: 2593f8ccef75d403d8fb290a7e31c68e, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: b8883c497d4244d14a7a39324683c71e, type: 2}
+    - {fileID: 11400000, guid: c091c158785a04d029234b4968a797d3, type: 2}

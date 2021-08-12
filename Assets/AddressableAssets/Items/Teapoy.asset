@@ -1,0 +1,17 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ea77e98e9596349efa27b1daeba2bed5, type: 3}
+  m_Name: Teapoy
+  m_EditorClassIdentifier: 
+  price: 0
+  itemPrefab: {fileID: 2393073886998582739, guid: 5615c7880aa0b407581e78dd6e637bad, type: 3}
+  itemImage: {fileID: 21300000, guid: 1fea9924f05ee4223a007fd481f04cf8, type: 3}
